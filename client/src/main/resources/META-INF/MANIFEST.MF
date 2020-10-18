@@ -1,0 +1,1 @@
+Main-Class: com.javatar2.ChatClient
